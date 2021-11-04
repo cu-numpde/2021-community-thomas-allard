@@ -10,8 +10,8 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
+| Repository URL |  https://github.com/firedrakeproject/firedrake  |
+| Main/documentation website |  https://www.firedrakeproject.org/index.html  |
 | Year project was started |   |
 | Number of contributors in the past year | `git shortlog -se --since=2020-10-01` may be useful |
 | Number of contributors in the lifetime of the project |   |
