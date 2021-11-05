@@ -1,11 +1,10 @@
 # Community Software Analysis Proposal
-Please edit this file and push to your repository.
 
 ## Software: *Firedrake*
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+Firedrake is described as "an automated system for the solution of partial differential equations (PDE) using the finite element method (FEM)." Firedrake is built off of the FEniCS Project, making use of their Unified Form Language as a means to specify a wide class of PDEs. This project is built off of PETSc and PyOP2
 
+![The Firedrake/PyOP2 toolchain, from Rathgeber et al. 2014](\firedrake-pyop2_toolchain.png "toolchain")
 ### Stats
 
 | Description | Your answer |
@@ -20,7 +19,7 @@ primary audience is.*
 | Typical number of emails/comments per week? | Not sure! |
 | Typical number of commits per week? | ~10 |
 | Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
+| How does the project accept contributions? | pull requests |
 | Does the project have an automated test suite? | yes |
 | Does the project use continuous integration? | yes |
 | Are any legal/licensing steps required to contribute? | None that I could find |
