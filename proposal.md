@@ -22,7 +22,7 @@ Firedrake is described as "an automated system for the solution of partial diffe
 | Where do development discussions take place? | GitHub issues |
 | Typical number of emails/comments per week? | Not sure! |
 | Typical number of commits per week? | ~10 |
-| Typical commit size | `git log --shortstat` may be useful |
+| Typical commit size | Varies! Usually less than 100 lines for the most recent 20 commits |
 | How does the project accept contributions? | pull requests |
 | Does the project have an automated test suite? | yes |
 | Does the project use continuous integration? | yes |
