@@ -34,18 +34,13 @@ Check the following boxes when complete or add a note below if you
 encountered a problem.
 
 - [X] I have installed the software
-- [ ] I have run at least one example
+- [X] I have run at least one example
 - [X] I have run the test suite
 - [X] The test suite passes
 
 ### Notes/concerns/risks
 
-Please comment on any anomalies or known risks to following this
-project, if you were unable to answer any questions above, or
-otherwise have concerns about the appropriateness of the software.  If
-the project requires a contributor license agreement or other
-procedural steps, please explain here.  "None at this time" is
-acceptable for this question.
+I am unaware of any risks following this project. It appears that it should be straightforward making constributions to this project. The only risks I can foresee are associated with my own skills and my ability to make an appropriate contribute. I am excited for my attempt to be contribute to an open-source project like this!
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
