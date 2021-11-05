@@ -10,30 +10,30 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |  https://github.com/firedrakeproject/firedrake  |
-| Main/documentation website |  https://www.firedrakeproject.org/index.html  |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2020-10-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
+| Repository URL | https://github.com/firedrakeproject/firedrake |
+| Main/documentation website | https://www.firedrakeproject.org/index.html |
+| Year project was started | 2013 |
+| Number of contributors in the past year | 40 |
+| Number of contributors in the lifetime of the project | 93 |
+| Number of distinct affiliations | >10 |
+| Where do development discussions take place? | GitHub issues |
+| Typical number of emails/comments per week? | Not sure! |
+| Typical number of commits per week? | ~10 |
 | Typical commit size | `git log --shortstat` may be useful |
 | How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes |
+| Are any legal/licensing steps required to contribute? | None that I could find |
 
 ### Install and run
 
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
+- [X] I have installed the software
 - [ ] I have run at least one example
-- [ ] I have run the test suite
-- [ ] The test suite passes
+- [X] I have run the test suite
+- [X] The test suite passes
 
 ### Notes/concerns/risks
 
