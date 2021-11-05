@@ -2,7 +2,7 @@
 ![](images/firedrake_banner.png)
 ## Software: *Firedrake*
 
-Firedrake is described as "an automated system for the solution of partial differential equations (PDE) using the finite element method (FEM)." Firedrake is built off of the FEniCS Project, making use of their Unified Form Language as a means to specify a wide class of PDEs. This project is built off of PETSc and PyOP2
+Firedrake is described as "an automated system for the solution of partial differential equations (PDE) using the finite element method (FEM)." Firedrake is built off of the FEniCS Project, making use of their Unified Form Language as a means to specify a wide class of PDEs. This project is built off of PETSc and PyOP2. Firedrake is actually a two-layer abstraction in which "Layer 1: Firedrake" is the portable high-level finite element problem specification, and "Layer 2: PyOP2" is the parallel solver. The image belows shows this tool chain with the two layer abstraction (from [Firedrake: Re-imagining FEniCS by Composing Domain-specific Abstaction](https://fenicsproject.org/pub/presentations/fenics14-paris/FEniCS14FlorianRathgeber.pdf)).
 
 ![The Firedrake/PyOP2 toolchain, from Rathgeber et al. 2014](images/firedrake-pyop2_toolchain.PNG)
 ### Stats
