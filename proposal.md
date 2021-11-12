@@ -19,7 +19,7 @@ Firedrake is described as "an automated system for the solution of partial diffe
 | Number of contributors in the past year | 40 |
 | Number of contributors in the lifetime of the project | 93 |
 | Number of distinct affiliations | >10 |
-| Where do development discussions take place? | GitHub issues |
+| Where do development discussions take place? | GitHub issues, mailing list, and slack channel |
 | Typical number of emails/comments per week? | Not sure! |
 | Typical number of commits per week? | ~10 |
 | Typical commit size | Varies! Usually less than 100 lines for the most recent 20 commits |
@@ -40,7 +40,7 @@ encountered a problem.
 
 ### Notes/concerns/risks
 
-I am unaware of any risks following this project. It appears that it should be straightforward making constributions to this project. The only risks I can foresee are associated with my own skills and my ability to make an appropriate contribute. I am excited for my attempt to be contribute to an open-source project like this!
+I am unaware of any risks following this project. It appears that it should be straightforward making constributions to this project. The only risks I can foresee are associated with my own skills and my ability to make an appropriate contribution. I am excited for my first opportunity to contribute to an open-source project like this!
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
